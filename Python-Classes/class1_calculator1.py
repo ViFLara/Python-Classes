@@ -17,10 +17,12 @@ class Calculator:
     def division(self):
         return self.value_a / self.value_b
 
-calculator = Calculator(10, 2)
-print(calculator.value_a)
-print(calculator.value_b)
-print(calculator.sum())
-print(calculator.subtraction())
-print(calculator.multiplication())
-print(calculator.division())
+
+if __name__ == '__main__':
+    calculator = Calculator(10, 2)
+    print(calculator.value_a)
+    print(calculator.value_b)
+    print(calculator.sum())
+    print(calculator.subtraction())
+    print(calculator.multiplication())
+    print(calculator.division())
