@@ -1,0 +1,4 @@
+Rafael, 10, 5, 10, 4
+Felipe, 8, 5, 4, 9
+Arthur, 7, 3, 5, 8
+Areta, 10, 9, 7, 6
